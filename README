@@ -1,0 +1,9 @@
+===============================================================
+ABOUT
+
+a simple node.js application for uploading a file.
+
+RUNNING THE APPLICATION
+
+$ node index.js
+===============================================================
